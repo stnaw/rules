@@ -1,4 +1,5 @@
-#https://github.com/qoli/SyncnextClash
+# https://github.com/qoli/SyncnextClash
+# source: https://github.com/qoli/SyncnextClash/blob/main/proxy-classical.yaml
 host-suffix,v1.ax
 host-suffix,notion-api.splitbee.io
 host-suffix,themoviedb.org
@@ -9,23 +10,15 @@ host-suffix,olevod.com
 host-suffix,olevod.tv
 host-suffix,olemovienews.com
 host-suffix,haiwaikan.com
-host-suffix,bfvvs.com
-host-suffix,cdn.venus7202.com
-host-suffix,cdn.ceres9350.com
-host-suffix,cdn.efhie.com
 host-suffix,picsum.photos
 host-suffix,ibb.co
-host-suffix,kin6c1.com
-host-suffix,iz8qkg.com
-host-suffix,v82u1l.com
-host-suffix,ikzybf.com
 host-suffix,scrapingbee.com
 host-suffix,nivod.tv
-host-suffix,nivodi.tv
 host-suffix,nivodz.com
 host-suffix,histar.tv
-host-suffix,olehdtv.com
-host-suffix,olelive.com
+host-suffix,youtubekit-remote.losjet.com
+host-suffix,vercel.app
+host-suffix,thanju.com
 #user
 host-suffix,v2ex.com
 host-suffix,agentneo.tech
